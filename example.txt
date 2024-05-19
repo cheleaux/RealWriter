@@ -1,0 +1,331 @@
+E-E-A-T stands for “Experience, Expertise, Authoritativeness, and Trustworthiness.” Until a Google update in December 2022, it was just E-A-T (no “Experience”).
+
+YMYL stands for “Your Money or Your Life.”
+
+Understanding both concepts is crucial if you want to improve your SEO.
+
+In this article, we’ll further define E-E-A-T and YMYL. And show you how to improve your site’s E-E-A-T so your content meets users’ needs and ranks higher in Google.
+
+[ALT TEXT] E-E-A-T and YMYL explained [ALT TEXT]
+
+#What Is E-E-A-T?
+E-E-A-T (Experience, Expertise, Authoritativeness, and Trustworthiness) is part of Google’s [Search Quality Rater Guidelines](https://static.googleusercontent.com/media/guidelines.raterhub.com/en//searchqualityevaluatorguidelines.pdf)—the handbook that real people use to evaluate the quality of search results.
+
+These people are known as Quality Raters. And their feedback helps Google measure the success of its [algorithm updates](https://www.semrush.com/blog/google-algorithm-update/).
+
+E-E-A-T is not a direct Google ranking factor. But Google wants to serve results with strong E-E-A-T. So, it is an important concept in SEO.
+
+Plus, high E-E-A-T can improve user trust. And lead to more conversions on your site.
+
+Side note: Google updates the Search Quality Rater Guidelines approximately once per year. Here’s a quick history of key Google E-E-A-T updates:
+
+- March 2013: Google officially publishes its Search Quality Rating Guidelines
+- March 2014: Google adds E-A-T (Expertise, Authoritativeness, and Trustworthiness) to the guidelines
+- December 2022: Google introduces E-E-A-T, adding an extra “E” for “Experience”
+Now, let’s dive into the four components of Google E-E-A-T and how they intersect with your content.
+
+#Experience
+Quality content often demonstrates the creator’s first-hand experience with the subject matter. This helps prove that suggestions are tried and tested. And that insights are authentic.
+
+Consider this review for the board game Wingspan.
+
+The author talks about their personal experiences and opinions. And provides unique product photos to prove they’ve played the game.
+
+[ALT TEXT] Screenshot of the review for the board game Wingspan [ALT TEXT]
+
+#Expertise 
+Search quality raters must determine whether authors have topical expertise. Do they have the knowledge, qualifications, and credentials required to give reliable information?
+
+Expertise often overlaps with experience. But they’re not the same thing.
+
+Consider the topic of saving money. 
+
+Some people want financial advice from an accredited professional. (Expertise.)
+
+[ALT TEXT] Martin Lewis author biography demonstrating expertise [ALT TEXT]
+
+Others want real-life examples of strategies that worked for their peers. (Experience.)
+
+[ALT TEXT] Question about personal money saving tips on LifeHacks forum [ALT TEXT]
+
+Both types of content can offer value to searchers. So both can perform well under Google E-E-A-T.
+
+#Authoritativeness
+Authoritativeness refers to your overall reputation in your industry. Especially among experts and [influencers](https://www.semrush.com/blog/how-to-find-influencers/) in your niche.
+
+Google quality raters are instructed to review the authoritativeness of the creator, the content, and the website.
+
+For example, an article on abdominal pain from WebMD is authoritative because:
+
+WebMD is a well-known publication for medical advice
+The authors—WebMD Editorial Contributors—are wellness professionals
+They ask an expert (usually a doctor) to check their content for accuracy
+
+[ALT TEXT] An article on abdominal pain from WebMD as an example of authoritativeness [ALT TEXT]
+
+Ideally, other authorities in your industry link to your content because it provides value.
+
+In other words, people know you, know your background, and look to you as a leader in your industry. They accept you as a good source of information.
+
+Tip: [Semrush Authority Score](https://www.semrush.com/blog/semrush-authority-score-explained/) provides a measure of site authority out of 100. It’s not a perfect indicator of authoritativeness as it relates to E-E-A-T, but it gives you a general idea of where you might rate.
+
+To compare your Authority Score against competitors’, enter your domain in [Backlink Analytics](https://www.semrush.com/analytics/backlinks/) and click “Analyze.”
+
+[ALT TEXT] lowes.com search in Backlink Analytics tool [ALT TEXT]
+
+Then enter up to four rival domains and click “Compare.”
+
+[ALT TEXT] Example of inserting rivals domains in Backlink Analytics tool [ALT TEXT]
+
+#Trustworthiness
+Trustworthiness is the most important part of Google E-E-A-T SEO. Quality Raters must take the creator, content, and website into account.
+
+Be clear about who wrote your content, edit for factual accuracy, cite trustworthy sources, and avoid hiding content behind a wall of ads.
+
+Keep in mind that this encompasses more than just [content marketing](https://www.semrush.com/blog/what-is-content-marketing/), though. 
+
+In the Search Quality Rater Guidelines, Google refers to “a shopping checkout page that has an insecure connection” as untrustworthy.
+
+See here how Pashion lets its consumers know that all transactions are secure and encrypted to build trust:
+
+[ALT TEXT] All transactions are secure and encrypted by Pashion [ALT TEXT]
+
+It’s also important to provide contact information on your website—particularly for YMYL topics or online stores.
+
+#What Is E-A-T?
+E-A-T (Expertise, Authoritativeness, and Trustworthiness) was the original version of E-E-A-T. It was introduced to Google’s Search Quality Rater Guidelines in March 2014, to help human raters review the quality of search results.
+
+Google [added](https://developers.google.com/search/blog/2022/12/google-raters-guidelines-e-e-a-t) the extra “E” for “Experience” in December 2022:
+
+[Stylised Quote] "Many creators are familiar with the concept of E-A-T, which is used in how we evaluate if our search ranking systems are providing helpful, relevant information. [...] Now to better assess our results, E-A-T is gaining an E: experience." [Stylised Quote]
+
+#What Is YMYL?
+YMYL (Your Money or Your Life) topics could significantly impact readers’ health, financial stability, safety, or well-being. Common YMYL topics include finance, medicine, and current events.
+
+E-E-A-T is important for YMYL SEO because misinformation on such topics can cause harm to the following:
+- The person viewing the content
+- Others affected by the person who viewed the content
+- Groups of people affected by the actions of those who viewed the content
+
+
+Here are a few examples of Google YMYL topics:
+- Clear YMYL topics: evacuation routes for a tsunami, news about ongoing violence, information about purchasing prescription drugs
+- May be YMYL topics: weather forecasts, news about a car accident, information about how often to replace a toothbrush
+- Unlikely YMYL topics: music award winners, news about a local high school basketball game, a music video
+
+There are plenty of other YMYL topics. But Google says quality evaluators need to use their judgment to determine whether a page qualifies as YMYL content. These pages need to demonstrate the highest levels of E-E-A-T.
+
+So while E-E-A-T and YMYL aren’t SEO ranking factors, they are important things to consider when creating [quality content](https://www.semrush.com/blog/quality-content/). 
+
+How to Improve Your Site’s E-E-A-T
+The good news is that you don’t need to overhaul your [SEO strategy](https://www.semrush.com/blog/seo-strategy/) to improve your E-E-A-T and take YMYL into consideration.
+
+Let’s uncover six practical steps to improve your site’s E-E-A-T SEO:
+
+1. Create High-Quality Content
+Your site should provide people-first content. This means content that answers questions, provides advice, and leaves the reader feeling satisfied.
+
+Google has released [helpful content updates](https://www.semrush.com/blog/google-algorithm-update/#helpful-content-updates) designed to ensure content is:
+
+- Original
+- Helpful to users
+- Written by people, for people
+
+Regularly [audit your content](https://www.semrush.com/blog/content-audit/) to ensure that it’s useful and has a high level of E-E-A-T. Even if your content was once useful, it won’t be that helpful if it has outdated information.
+
+And create new content that addresses your audience’s evolving needs.
+
+Semrush’s [Topic Research](https://www.semrush.com/topic-research/) tool can help.
+
+Enter a topic related to your expertise. Then select your country and click “Get content ideas.”
+
+[ALT TEXT] cryptocurrency search in Semrush’s Topic Research tool [ALT TEXT]
+
+Once the analysis is complete, click “View content ideas.”
+
+[ALT TEXT] View content ideas button highlighted [ALT TEXT]
+
+Trending subtopics are marked with a flame icon.
+
+Expand any subtopic to see popular headlines, questions, and searches. 
+
+[ALT TEXT] Expanding the subtopic in Topic Research tool [ALT TEXT]
+
+Think you can help these searchers out?
+
+Try drafting your content in Semrush’s [SEO Writing Assistant](https://www.semrush.com/swa/). It provides readability, originality, and tone of voice suggestions that can make your writing more helpful.
+
+[ALT TEXT] Writing about cryptocurrency in Semrush’s SEO Writing Assistant [ALT TEXT]
+
+2. Provide Author Info and Transparency
+Google wants to know that the person writing a piece of content is a legitimate source of information.
+
+Be sure to create an About Us page to introduce your team (if applicable). And individual author pages to highlight specific writers.
+
+Author bios help establish transparency and E-E-A-T by showing author credentials and past work:
+
+[ALT TEXT] Example of author bio [ALT TEXT]
+You can also leverage author expertise by becoming a contributor to authoritative sites in your space. 
+
+This is easier said than done. But a great way to start is by writing guest posts for relevant, authoritative sites within your niche.
+
+Lastly, hire experts when you can. If you’re a small business owner or don’t have the funds to do so, at the very least, hire talented writers who do their research to create informative content.
+
+Tip: Have subject matter experts review your writers’ content. This will help you establish credibility and avoid any mistakes or misinformation.
+
+For example, your finance team may not necessarily have the skills to create content. But they can review finance-related articles for accuracy or provide quotes.
+
+This brings us to our next point: 
+
+3. Use Credible Sources
+When creating content, it’s always best to go straight to the source to establish credibility. 
+
+Always link to official sources, studies, research papers, etc. This can even include tweets and blog posts by experts in your field.
+
+It’s also best to use trusted sources. These may vary by field but could include academic databases, news publications, or established experts’ and agencies’ sites.
+
+This is particularly important for YMYL SEO. Here’s a great example from Healthline:
+
+[ALT TEXT] Example from Healthline using trusted sources [ALT TEXT]
+
+4. Create a Positive Brand Reputation
+Your brand’s reputation can impact the trustworthiness of your content and site overall. So [online reputation management](https://www.semrush.com/blog/online-reputation-management/) is crucial for Google E-E-A-T SEO.
+
+This means you should keep an eye out for negative reviews or press. If something does come up, respond promptly and professionally.
+
+Semrush’s [Listing Management](https://www.semrush.com/listings-management/start/) tool makes it easy for local businesses to stay on top of reviews. 
+
+Enter your company name and follow the prompts to sign up.
+
+[ALT TEXT] Semrush’s Listing Management tool [ALT TEXT]
+Then see reviews from various platforms in the “Review Management” tab.
+
+[ALT TEXT] Review Management tab [ALT TEXT]
+If you have a [Premium Location](https://www.semrush.com/kb/1094-listing-management-premium-location), you can reply to [Google reviews](https://www.semrush.com/blog/how-to-ask-for-google-reviews/) without leaving Semrush.
+
+[ALT TEXT] How to reply to Google reviews without leaving Semrush [ALT TEXT]
+
+Tip: Respond to bad and good reviews. Positive interactions with customers can help your brand reputation over the long term.
+
+5. Monitor and Leverage User-Generated Content
+[User-generated content](https://www.semrush.com/blog/user-generated-content/) (UGC) is any type of content created by consumers or website users rather than brands. When used well, UGC can act as a trust signal and establish brand loyalty.
+
+For example, [79% of online shoppers](https://www.netimperative.com/2021/08/18/online-shoppers-shunning-influencers-in-favour-of-authentic-content-from-real-consumers/) say UGC highly impacts their purchasing decisions. So it’s crucial to get your customer base to back your brand.
+
+UGC can include images, video testimonials, product reviews, YouTube videos, and blog posts.
+
+This Instagram video by Whitney Anderson about her Pashion Footwear shoes is a great example of UGC.
+
+[ALT TEXT] Screenshot of Instagram video by Whitney Anderson about her Pashion Footwear shoes [ALT TEXT]
+
+According to Google’s Search Quality Rater Guidelines, UGC is considered Main Content (MC), which is “any part of the page that directly helps the page achieve its purpose.”
+
+The guidelines state that any content on a webpage can be categorized into three areas: MC, Supplementary Content (SC), and Advertisements/Monetization (Ads).
+
+So MC—which can include UGC—is clearly an important part of the picture.
+
+One way you can gather UGC to improve your site's E-E-A-T is to prompt happy customers to share photos of your product and tag you.
+
+You can prompt customers to post about you on social platforms by sending them a quick email or running a social media contest.
+
+Here’s an example of an email that asks customers to tag them on social media using hashtags:
+
+[ALT TEXT] An email asking customers to tag them on social media using hashtags [ALT TEXT]
+
+And here’s an example of a contest run by a small jewelry shop. It asks customers to tag the shop in their Instagram stories:
+
+[ALT TEXT] Instagram post for the contest run by a small jewelry shop [ALT TEXT]
+
+Asking customers (and potential customers) to post about you gets you more exposure. And asking them to tag you gives you a whole folder of user-generated content that you can share on your own feeds.
+
+For example, this is how Spanx reshares content made by their customers:
+
+[ALT TEXT] Spanx reshares content made by customers [ALT TEXT]
+
+Other ways you can leverage UGC to improve your site’s E-E-A-T SEO are:
+
+- Strategically using hashtags to easily sort through fan photos later
+- Running contests or giveaways that require users to engage and share content
+- Regularly engaging with fans to promote conversation
+- Running influencer marketing campaigns
+
+Whenever you highlight UGC on your site or social profiles, always request permission from creators. (And credit them in the content.)
+
+And remember:
+
+Getting quality UGC is about the long game. Engage with your audience on a regular basis to encourage them to interact with your brand and with each other.
+
+Tip: Semrush has a variety of free [social media marketing tools](https://www.semrush.com/features/social-media-marketing/) that make [social media management](https://www.semrush.com/features/social-media-marketing/) more efficient and effective.
+
+6. Build Authoritative Backlinks
+Earning [backlinks](https://www.semrush.com/blog/what-are-backlinks/) from other trusted sites is an important part of your SEO strategy. Plus, it can show that your business is an authority in your industry.
+
+In the example below, WWF links to a number of smaller brands. 
+
+Because WWF is a global authority, earning a backlink from them is like getting a big stamp of approval. 
+
+[ALT TEXT] An example of backlinks on WWF page [ALT TEXT]
+
+Think of backlinks like word of mouth. You’d probably be more likely to trust a brand recommended by a friend. 
+
+Similarly, you may be more willing to trust a site recommended by another site you trust.
+
+The other great part about backlinks? They’re a critical part of any SEO strategy. As a general rule, the more high-quality backlinks you earn, the better off you are in [Google search rankings](https://www.semrush.com/blog/get-to-top-of-google-search/).
+
+There are many ways to [earn backlinks](https://www.semrush.com/blog/how-to-get-backlinks/). But a good start is simply creating great, useful content.
+
+Here are a few specific things you can do to optimize with link building in mind:
+- Create linkable content assets (e.g., helpful infographics or video guides)
+- Share visuals or compelling data on social media (and always include links to your articles on those posts)
+- Publish original research that people might want to cite and link to
+- Create helpful how-to guides for topics in your niche
+
+Once you create your linkable content, reach out to other publications to see if they are interested in linking to your piece.
+
+You can also use Semrush’s Link Building Tool to find sites that might link to yours (link building prospects).
+
+Enter your domain then click “Start Link Building.”
+
+[ALT TEXT] Semrush’s Link Building Tool [ALT TEXT]
+
+Enter a list of target keywords or use the ones suggested. (See our keyword research guide if you need help.)
+
+Then click “Competitors.”
+
+[ALT TEXT] Entering keywords to Link Building tool [ALT TEXT]
+
+Enter a list of competitors or use the ones suggested.
+
+Then click “Start Link Building.”
+
+[ALT TEXT] Navigating to Start Link Building button [ALT TEXT]
+
+When the Link Building Tool has finished collecting and analyzing data, go to the “Prospects” report.
+
+You’ll see a list of sites that might link to yours. Along with their Authority Scores. 
+
+The tool organizes results by “Rating,” a measure of the potential link’s quality and accessibility.
+
+[ALT TEXT] Overview of Prospects report in Link Building tool [ALT TEXT]
+
+The Link Building Tool helps you manage the entire link-building process. Click “To In Progress” alongside any opportunity to get started. And check out this knowledge base article for more guidance.
+
+To get more link building prospects, try Semrush’s Backlink Gap tool. It finds sites that are linking to your competitors but not to you.
+
+First, identify up to four competitors you want to compare your site with. 
+
+Then, plug your and your competitors’ sites into the Backlink Gap tool.
+
+[ALT TEXT] Backlink Gap tool [ALT TEXT]
+
+After you hit the “Find prospects” button, you’ll see a table with a list of publications that link to your competitors. And how many times they do so.
+
+[ALT TEXT] Results for finding prospects in Backlink Gap tool [ALT TEXT] 
+
+Click on the numbers to get more information about each backlink. Like which page it links to and what anchor text it uses.
+
+[ALT TEXT] Navigation to where to click to to get more information about each backlink [ALT TEXT]
+
+Use that information to gauge whether getting a backlink from that specific publication would be beneficial to your site’s authoritativeness or trustworthiness.
+
+To send prospects from Backlink Gap to the Link Building Tool, click “+ Start outreach” and follow the instructions.
