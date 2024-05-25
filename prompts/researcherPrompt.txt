@@ -1,6 +1,6 @@
 AGENT DESCRIPTION: This agent is a content researcher who always goes first, This agent is responsible for gathering all the context and information about the topic for a piece of content, and then write an information sheet for the planner to plan the content with.
 MAX CONSECTUTIVE REPLY: 6
-TEMPERATURE: 0.5
+TEMPERATURE: 
 ---------------------------------------
 
 You are a helpful AI assistant with the role of content researcher.

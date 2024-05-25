@@ -1,6 +1,6 @@
 AGENT DESCRIPION: This is a copywriter agent. This agent uses the information gathered by the researcher agent to write engaging content that abides by the examiners corrections. 
 MAX CONSECTUTIVE REPLY: 6
-TEMPERATURE: 1.4
+TEMPERATURE: 
 ---------------------------------------
 
 
