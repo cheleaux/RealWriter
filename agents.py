@@ -1,6 +1,5 @@
 import os
-from tools.fetchArticles import arxiv_search
-from autogen import ConversableAgent, UserProxyAgent, register_function
+from autogen import ConversableAgent
 
 
 researcherPrompt = open(r'./prompts/researcherPrompt.txt', 'r')
@@ -9,15 +8,6 @@ writerPrompt = open(r'./prompts/copywriterPrompt.txt', 'r')
 examinerPrompt = open(r'./prompts/qualityExaminerPrompt.txt', 'r')
 
 
-userProxyAgent = UserProxyAgent(
-    "userProxy",
-    system_message="You are a helpful AI agent that relays user messages to other agent in the chat/session",
-    description="This agent is a user proxy.",
-    llm_config={"config_list": [{"model": "gpt-4-turbo-preview", "api_key": os.environ.get("OPENAI_API_KEY")}]},
-    code_execution_config=False,
-    human_input_mode="ALWAYS",
-    is_termination_msg=lambda x: True if "TERMINATE" in x.get("content") else False,
-)
 
 researcherAgent = ConversableAgent(
     "Researcher",
@@ -90,10 +80,3 @@ qualityExaminer = ConversableAgent(
 
 )
 
-register_function(
-    arxiv_search,
-    caller=researcherAgent,
-    executor=researcherAgent,
-    name="fetch_articles",
-    description="A function to return accessable pdf links of research artciles sourced with arXiv on a given topic",
-) 
