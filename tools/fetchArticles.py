@@ -3,7 +3,7 @@ from feedparser import parse
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
 
-def arxiv_search( query :str , max_results :int = 10 ) -> list:
+def fetch_articles( query :str , max_results :int = 10 ) -> list:
   """
   This function searches for arXiv papers based on a query and attempts to locate the PDF link for each result.
 
