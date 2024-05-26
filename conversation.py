@@ -1,5 +1,6 @@
+import os
 from tools.fetchArticles import arxiv_search
-from autogen import UserProxyAgent, register_function
+from autogen import UserProxyAgent, register_function, initiate_chat
 from agents import researcherAgent, plannerAgent, qualityExaminer, copywriterAgent
 
 
@@ -22,10 +23,7 @@ register_function(
     description="A function to return accessable pdf links of research artciles sourced with arXiv on a given topic",
 )
 
-register_function(
-    arxiv_search,
-    caller=researcherAgent,
-    executor=researcherAgent,
-    name="fetch_articles",
-    description="A function to return accessable pdf links of research artciles sourced with arXiv on a given topic",
+chatResult = userProxyAgent.initiate_chat(
+    researcherAgent,
+    message="can you make me an information sheet about the effects of caffine on headaches?"
 )
