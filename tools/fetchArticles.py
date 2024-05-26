@@ -3,12 +3,12 @@ from feedparser import parse
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
 
-def arxiv_search_with_pdf(query, max_results=10):
+def arxiv_search( query :str , max_results :int = 10 ) -> list:
   """
   This function searches for arXiv papers based on a query and attempts to locate the PDF link for each result.
 
   Args:
-      query (str): The search query for arXiv papers.
+      query (str): The search query/scope for arXiv papers.
       max_results (int, optional): The maximum number of results to return (defaults to 10).
 
   Returns:
@@ -32,7 +32,7 @@ def arxiv_search_with_pdf(query, max_results=10):
 
   return papers_with_pdf
 
-def find_pdf_link(url):
+def find_pdf_link( url :str ) -> str:
   """
   This function attempts to find the anchor tag with the text "view pdf" on the given URL.
 
@@ -58,16 +58,13 @@ def find_pdf_link(url):
     print(f"An error occurred finding PDF link for {url}: {e}")
     return None
 
-# Example usage
-query = "cloud based infrastructure"
-results = arxiv_search_with_pdf(query)
 
-for paper in results:
-  print(f"Title: {paper['title']}")
-  print(f"Link: {paper['link']}")
-  if "pdf_link" in paper:
-    print(f"PDF Link: {paper['pdf_link']}")
-  else:
-    print("PDF link not found on the webpage.")
-  print("-" * 50)
+# for paper in results: 
+#   print(f"Title: {paper['title']}")
+#   print(f"Link: {paper['link']}")
+#   if "pdf_link" in paper:
+#     print(f"PDF Link: {paper['pdf_link']}")
+#   else:
+#     print("PDF link not found on the webpage.")
+#   print("-" * 50)
 
