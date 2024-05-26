@@ -27,8 +27,7 @@ def arxiv_search_with_pdf(query, max_results=10):
   for entry in feed.entries:
     paper_info = {"title": entry.title, "link": entry.link}
     pdf_link = find_pdf_link(entry.link)
-    if pdf_link:
-      paper_info["pdf_link"] = pdf_link
+    paper_info["pdf_link"] = f"https://arxiv.org/{pdf_link}" if pdf_link and pdf_link.startswith('/pdf/') else None
     papers_with_pdf.append(paper_info)
 
   return papers_with_pdf
@@ -48,7 +47,7 @@ def find_pdf_link(url):
     soup = BeautifulSoup(response, 'html.parser')
     
     # Search for anchor tags with text "view pdf" (case-insensitive)
-    anchors = soup.find_all('a', text=lambda text: text and text.lower() == "view pdf")
+    anchors = soup.find_all('a', string=lambda text: text and text.lower() == "view pdf")
     
     if anchors:
       # Assuming there's only one relevant anchor tag, return its href attribute
@@ -60,7 +59,7 @@ def find_pdf_link(url):
     return None
 
 # Example usage
-query = "blockchain security"
+query = "cloud based infrastructure"
 results = arxiv_search_with_pdf(query)
 
 for paper in results:
@@ -71,3 +70,4 @@ for paper in results:
   else:
     print("PDF link not found on the webpage.")
   print("-" * 50)
+
