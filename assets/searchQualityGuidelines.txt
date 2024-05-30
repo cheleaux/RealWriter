@@ -746,17 +746,13 @@ The rating concepts in these guidelines apply to all types of content. The examp
 important to illustrate how the concepts defined in each section should be applied in rating tasks for different types of
 webpages and different types of content.
 Please view each example and keep the following in mind:
-●
-●
-●
-●
 
-Webpages and websites change rapidly, so we use images or "snapshots" of webpages in most of our examples.
-Because some types of content are difficult to view in "snapshot" form, a description of the webpage is provided
-for each example.
-The information in the examples was accurate at the time it was added, but content and websites may change
-over time.
-Some examples show pages on desktop and some show pages on mobile devices.
+- Webpages and websites change rapidly, so we use images or "snapshots" of webpages in most of our examples.
+- Because some types of content are difficult to view in "snapshot" form, a description of the webpage is provided
+    for each example.
+- The information in the examples was accurate at the time it was added, but content and websites may change
+    over time.
+- Some examples show pages on desktop and some show pages on mobile devices.
 
 Copyright 2024
 
@@ -770,15 +766,12 @@ Introduction to Page Quality Rating
 A Page Quality (PQ) rating task consists of a URL and a grid to record your observations as you explore the landing page
 and the website associated with the URL. The goal of PQ rating is to evaluate how well the page achieves its purpose.
 Here's what you'll need to be a successful Page Quality rater:
-●
-●
-●
+
+- Your experience using the web as an ordinary user in your rating locale.
+- In-depth knowledge of these guidelines.
+- And most importantly—practice doing PQ rating tasks!
 
 2.0
-
-Your experience using the web as an ordinary user in your rating locale.
-In-depth knowledge of these guidelines.
-And most importantly—practice doing PQ rating tasks!
 
 Understanding Webpages and Websites
 
@@ -833,16 +826,13 @@ purpose, or for multiple purposes. Most pages are created to be helpful for peop
 Some pages are created merely to make money, with little or no effort to help people. Some pages are even created to
 harm users. The first step in understanding a page is figuring out its purpose.
 Why is it important to determine the purpose of the page for PQ rating?
-●
-●
-●
 
-The goal of PQ rating is to determine how well a page achieves its purpose. In order to assign a rating, you must
-understand the purpose of the page and sometimes the website.
-By understanding the purpose of the page, you'll better understand what criteria are important to consider when
-evaluating that particular page.
-Websites and pages should be created to help people. If that is not the case, a rating of Lowest may be
-warranted. More on this later.
+- The goal of PQ rating is to determine how well a page achieves its purpose. In order to assign a rating, you must
+    understand the purpose of the page and sometimes the website.
+- By understanding the purpose of the page, you'll better understand what criteria are important to consider when
+    evaluating that particular page.
+- Websites and pages should be created to help people. If that is not the case, a rating of Lowest may be
+    warranted. More on this later.
 
 As long as the page is created to help people, we will not consider any particular page purpose or type to be higher quality
 than another. For example, encyclopedia pages are not necessarily higher quality than humor pages.
@@ -851,25 +841,16 @@ news pages, forum pages, video pages, pages with error messages, PDFs, images, g
 homepages, and all other types of pages. The type of page does not determine the PQ rating—you have to understand
 the purpose of the page to determine the rating.
 Common helpful or beneficial page purposes include (but are not limited to):
-●
-●
-●
-●
-●
-●
-●
-●
-●
 
-To share information about a topic.
-To share a personal experience, perspective, or feelings on a topic.
-To share pictures, videos, or other forms of media.
-To demonstrate a personal talent or skill.
-To express an opinion or point of view.
-To entertain.
-To offer products or services.
-To allow users to post questions for other users to answer.
-To allow users to share files or to download software.
+- To share information about a topic.
+- To share a personal experience, perspective, or feelings on a topic.
+- To share pictures, videos, or other forms of media.
+- To demonstrate a personal talent or skill.
+- To express an opinion or point of view.
+- To entertain.
+- To offer products or services.
+- To allow users to post questions for other users to answer.
+- To allow users to share files or to download software.
 
 Here are a few examples where it is easy to understand the purpose of the page:
 Type of Page

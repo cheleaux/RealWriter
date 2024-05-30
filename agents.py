@@ -82,3 +82,5 @@ with open(r'./prompts/qualityExaminerPrompt.txt', 'r', encoding='utf-8' ) as exa
         max_consecutive_auto_reply=6,
         is_termination_msg=lambda x: True if "TERMINATE" in x.get("content") else False,
     )
+
+    
