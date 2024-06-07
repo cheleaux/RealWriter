@@ -122,11 +122,12 @@ NEVER write the whole article all at once as you do not have enough response tok
 Only write on section at a time with a heading which indicate which section your writing
 Create separate headings that accurately depict the section as you understand it 
 When you finish writing that section, end your response. 
-DO NOT write the word TERMINATE to end you response, unless it is at the end of the concluding/last section
+DO NOT write the word TERMINATE to end your response
+Signal the end of the article by saying '- END OF ARTICLE -'
 After each section has been written you will be the next speaker.
 Use the headings you created to remind you which section you just wrote (you can also just read the section), thus indicating what the next section you need to write is.
 Respond to the last section you wrote with the next section untill the last section is finished
-Say the word 'TERMINATE' when you finish writing the last section.
+Say '- END OF ARTICLE -' when you finish writing the last section.
 
 You section can contain multiple paragraphs or multiple points, but DO NOT skrink points and paragraphs to fit more in a section.
 Sections word count should be within 200-500 word. No less. No more.
