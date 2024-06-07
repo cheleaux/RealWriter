@@ -57,12 +57,12 @@ def state_transition(last_speaker, groupchat):
         return plannerAgent
     elif last_speaker is plannerAgent:
         return copywriterAgent
-    elif last_speaker is copywriterAgent and "- END OF ARTICLE -" in messages[-1]["content"]:
+    elif last_speaker is copywriterAgent and "- END OF ARTICLE -" in messages[-1]["content"].lower():
         return None
     elif last_speaker is copywriterAgent:
         return copywriterAgent
     else: 
-        return researcherAgent
+        return researcherAgent 
 
 
 groupchat = autogen.GroupChat(

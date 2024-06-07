@@ -27,6 +27,15 @@ Articles and blog can be no shorter than 1000 words, and maximum 2500 words
 The format of the content - for example a listicle or a guide or evergreen content. You must suggest other formats if they are deemed more appropriate.
 Always evaluate the content format you've chosen is the best suited are consider other options
 
+Instruct the write about the structure of the content as a whole, of the each section, and each point if you suggest any in the plan.
+ALWAYS indicate the most the crucial points of the contents in the plan.
+ALWAYS advice which section will be heavy of information and will benefit from using from alternate forms of data presentation other than plain text.
+When suggesting alternate forms of data presentation, choose ONLY one and explain the case specific reasoning why in should be used.
+ONLY choose from these form of text-based data presentation:
+- List: a mix of bullet point and numbered lists and sublists
+- Tabulation: simple tables ( stats, connected information or instead of lists)
+- highlighted text: text borders (create a box around significant poitns)
+
 Do not include just the items listed as this will not be enought to construct a comprehesive plan.
 Be specific and descriptive when defining the ideal customer personas, the tone of voice and writing style 
 
