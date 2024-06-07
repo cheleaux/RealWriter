@@ -21,7 +21,7 @@ with open(r'./prompts/researcherPrompt.txt', 'r', encoding='utf-8' ) as research
         },
         human_input_mode="NEVER",
         max_consecutive_auto_reply=6,
-        is_termination_msg=lambda x: True if "TERMINATE" in x.get("content") else False,
+        # is_termination_msg=lambda x: True if "TERMINATE" in x.get("content") else False,
     )
 
 
@@ -54,7 +54,7 @@ with open(r'./prompts/copywriterPrompt.txt', 'r', encoding='utf-8') as writerPro
                 "model": "gpt-4-turbo-preview",
                 "api_key": os.environ.get("OPENAI_API_KEY")
                 }],
-            "temperature": 1.4
+            "temperature": 1.2
         },
         code_execution_config=False,
         human_input_mode="NEVER",
