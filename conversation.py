@@ -73,4 +73,10 @@ groupchat = autogen.GroupChat(
 
 manager = autogen.GroupChatManager(groupchat=groupchat, llm_config=llm_config)
 
+
+
+# This workflow does not include the quality officer agent, it is strickly acontent generation workflow. 
+# Humanisation is not yet implemented but will be using an additional humaniser agent with a registered function to parse
+# the writer agent output using the Phrasly humnanise API. 
+
 manager.initiate_chat( manager, message="write an article about lightning, how it works and intereacts with the clouds")
